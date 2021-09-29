@@ -1,0 +1,34 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    width: 1000px;
+}
+
+h1, h2 {
+    color: rgb(226, 183, 43);
+}
+
+img {
+    width: 500px;
+}
+div.review {
+    background-color: rgb(245, 205, 160);
+    border: solid;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 800px;
+}
+
+div.review:hover {
+    background-color: rgb(160, 176, 245);
+}
+
+#product-description {
+    font-size: 15px;
+}
+
+figure {
+    font-size: 15px;
+}
